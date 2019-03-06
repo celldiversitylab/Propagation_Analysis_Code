@@ -26,12 +26,15 @@ b.	This function will call the function makeAbsolTransMatrix.m to generate the e
 
 
 Example
-We provide the TestDataset.dat with which the results of Figure 3 of the manuscript can be, due to the randomization with minor variations, reproduced.
+We provide the Source Data as a separate Zip-file with which the results of Figure 3 and 5 of the manuscript can be, due to the randomization with minor variations, reproduced.
 The computation of this data set with 10,000 permutations (and 2 permutation rounds takes in total about 5-10 h, with about 1 to 3 seconds for each permutation.
 
 
 Reference
 The manuscript/accepted publication of Berge et al. «Asymmetric division events promote variability in cell cycle duration in animal cells and E.coli «
+
+
+
 
 
 
